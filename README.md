@@ -1,5 +1,19 @@
 # IMAGE-CLASSIFICATION-USING-CNN
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : G PAVANI
+
+INTERN ID : CT08DK681
+
+DOMAIN : MACHINE LEARNING
+
+DURATION : 8 WEEKS
+
+MENTOR : NEELA SANTHOSH
+
+DESCRIPTION OF THE TASK :
+
 As part of my Machine Learning internship at CodTech IT Solutions, my task involved building an image classification model using Convolutional Neural Networks (CNNs). The objective of this task was to understand how to work with image data, implement a CNN using deep learning libraries like TensorFlow or Keras, and evaluate its performance on a given dataset. I successfully completed the task using Python and popular libraries such as TensorFlow, Keras, NumPy, and Matplotlib.
 
 **Tools and Technologies Used

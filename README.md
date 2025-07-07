@@ -1,4 +1,4 @@
-# IMAGE-CLASSIFICATION-USING-
+# IMAGE-CLASSIFICATION-USING-CNN
 
 As part of my Machine Learning internship at CodTech IT Solutions, Task 3 involved building an image classification model using Convolutional Neural Networks (CNNs). The objective of this task was to understand how to work with image data, implement a CNN using deep learning libraries like TensorFlow or Keras, and evaluate its performance on a given dataset. I successfully completed the task using Python and popular libraries such as TensorFlow, Keras, NumPy, and Matplotlib.
 
